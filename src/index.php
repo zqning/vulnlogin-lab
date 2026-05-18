@@ -1,4 +1,3 @@
-cat > /var/www/html/index.php << 'EOF'
 <!DOCTYPE html>
 <html lang="zh">
 <head>
@@ -444,4 +443,3 @@ body {
 
 </body>
 </html>
-EOF
